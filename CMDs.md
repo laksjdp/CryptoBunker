@@ -52,6 +52,7 @@
 ### Extensions
 - ***solidity metric*** - `Generate smart contract metrics` 
 - ***Solidity visual developer*** - `For viasual appearance about which variable for what purpose`
+- ***Huff***
 
 ### Notes.md
 ```markdown

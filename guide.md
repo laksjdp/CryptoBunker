@@ -1,10 +1,12 @@
 ## Links
-- [layout_in_storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
-- [cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
-- [evm.codes](https://www.evm.codes/)
-- [OWASP-top-10](https://github.com/OWASP/www-project-smart-contract-top-10)
-- [audit-readiness-checklist](https://www.quillaudits.com/blog/web3-security/smart-contract-audit-readiness-checklist)
-- [sc-exploits-minimized](https://github.com/Cyfrin/sc-exploits-minimized)
+- [Layout in Storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html)
+- [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
+- [EVM Codes](https://www.evm.codes/)
+- [OWASP Top10](https://github.com/OWASP/www-project-smart-contract-top-10)
+- [Audit Readiness Checklist](https://www.quillaudits.com/blog/web3-security/smart-contract-audit-readiness-checklist)
+- [SC Exploits Minimized](https://github.com/Cyfrin/sc-exploits-minimized)
+- [Secure Contracts](https://secure-contracts.com/)
+- [Verified Smart Contracts](https://github.com/runtimeverification/verified-smart-contracts)
 
 ## The Rekt Test
 1. Do you have all actors, roles, and privileges documented?
