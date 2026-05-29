@@ -29,6 +29,14 @@
   pipx upgrade slither-analyzer   # Upgrade the tool
   # Install Aderyn
   curl --proto '=https' --tlsv1.2 -LsSf https://github.com/cyfrin/aderyn/releases/latest/download/aderyn-installer.sh | bash
+
+  curl -L get.huff.sh | bash
+  forge install huff-language/foundry-huff
+
+
+ # Python Virtual Env
+ pipx install virtualenv
+ 
 ```
 
 ### Recon Flow
@@ -48,6 +56,7 @@
 - ***Fuzz Testing*** - `Stateless Fuzzing`, `Stateful Fuzzing` 
 - `TL;DR`
 - [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs.git)
+- [Foundry Huff](https://github.com/huff-language/foundry-huff)
 
 ### Extensions
 - ***solidity metric*** - `Generate smart contract metrics` 
