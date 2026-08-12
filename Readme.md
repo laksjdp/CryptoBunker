@@ -6,7 +6,7 @@ Welcome to **jpstacker/CryptoBunker**, my personal repository for exploring Web3
 
 ## 👨‍💻 About Me
 
-I'm **Lakshman**, a cybersecurity enthusiast from India diving deep into the world of Web3 and blockchain security. Here, I document my hands-on experiments, audit practices, vulnerability research, and learning resources — building knowledge for myself and the community.
+I'm **Jadapalli Lakshmaiah (LAKSHMAN)**, a cybersecurity enthusiast from India diving deep into the world of Web3 and blockchain security. Here, I document my hands-on experiments, audit practices, vulnerability research, and learning resources — building knowledge for myself and the community.
 
 ---
 

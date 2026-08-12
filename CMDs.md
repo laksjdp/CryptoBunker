@@ -11,9 +11,9 @@
 
   forge test      # Testing the Project
   forge build     # Build the Project
-  forge inspect ContractName storage  # Check the storage
+  forge inspect CONTRACT storage  # Check the storage
   forge coverage  # Check how much percentage testage. It must be more than 96%
-  forge inspect ContractName methods  # Check Methods
+  forge inspect CONTRACT methods  # Check Methods
 
 
   cast storage 0xContractAddress 1 --rpc-url http://127.0.0.1:8545
@@ -54,8 +54,6 @@
 ### Toolset
 - ***Static Analysis*** - `Slither`, `aderyn`, `mythril`
 - ***Fuzz Testing*** - `Stateless Fuzzing`, `Stateful Fuzzing` 
-- `TL;DR`
-- [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs.git)
 - [Foundry Huff](https://github.com/huff-language/foundry-huff)
 
 ### Extensions
